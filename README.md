@@ -2,12 +2,12 @@
     Hi there, I'm Marvin Daniel Rodriguez 
     <img
         src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47pwwn3pakgmgzin7yq39m92as9xdv8dtsomk0wjjd&rid=giphy.gif&ct=g"
-        width="70px"
+        width="80px"
     >
 </h1>
 
 <h3>
-    About Me
+    🧑‍💻 About me
 </h3>
 
 - 🎓 I'm a Systems Engineering student at the University of San Carlos de Guatemala.
@@ -19,7 +19,7 @@
   - [Instagram](https://www.instagram.com/rodriguez907/)
 
 <h3>
-    Languages and Tools
+   ⚙️ Languages and Tools
 </h3>
 
 <div align="center">
