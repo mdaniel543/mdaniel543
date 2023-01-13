@@ -40,8 +40,8 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=mdaniel543&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdaniel543&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaniel543&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdaniel543&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
